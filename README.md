@@ -7,7 +7,7 @@ The source code is private. Bug reports and feature requests are welcome via the
 
 ## Download
 
-Current version: **GlancEhr 1.0.0** — [GlancEhr-v1.0.0.dmg](https://github.com/AmritusG/glancehr-releases/releases/download/v1.0.0/GlancEhr-v1.0.0.dmg) ([SHA-256](https://github.com/AmritusG/glancehr-releases/releases/download/v1.0.0/GlancEhr-v1.0.0.dmg.sha256), [release notes](https://github.com/AmritusG/glancehr-releases/releases/tag/v1.0.0))
+Current version: **GlancEhr 1.0.1** — [GlancEhr-v1.0.1.dmg](https://github.com/AmritusG/glancehr-releases/releases/download/v1.0.1/GlancEhr-v1.0.1.dmg) ([SHA-256](https://github.com/AmritusG/glancehr-releases/releases/download/v1.0.1/GlancEhr-v1.0.1.dmg.sha256), [release notes](https://github.com/AmritusG/glancehr-releases/releases/tag/v1.0.1))
 
 All versions are on the [Releases tab](../../releases).
 
